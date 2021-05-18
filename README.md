@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Salaam! I'm Ali Shah</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Salaam! My name is Ali 🙂</h1>
 
 <p align="center">
   🔭 <strong>I recently learned about:</strong> <a href="https://github.com/shah-a/bew2.1-03-make-chat">Websockets 🔌</a><br />
