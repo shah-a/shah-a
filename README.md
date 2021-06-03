@@ -6,7 +6,7 @@
     href="https://make-school-courses.github.io/BEW-2.4-Decentralized-Apps-Distributed-Protocols/#/">Blockchain
     Technology 🔐</a><br />
   🤝 <strong>I’m looking for help with:</strong> <a href="https://www.serverless.com/">AWS & Serverless framework</a><br />
-  ⚡ <strong>Fun fact:</strong> I won't say no if you want to play a game of Smash Bros. against me 🎮👀<br />
+  ⚡ <strong>Fun fact:</strong> I won't say no if you want to face me in a game of Smash Bros. 🎮👀<br />
 </p>
 
 <h2 align="center">My Toolbox 🛠🧰</h2>
