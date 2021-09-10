@@ -1,10 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Salaam! My name is Ali 🙂</h1>
 
 <p align="center">
-  🔭 <strong>I recently learned about:</strong> <a href="https://github.com/shah-a/bew2.1-03-make-chat">Websockets 🔌</a><br />
-  🌱 <strong>Next, I'm interested in learning about:</strong> <a
-    href="https://make-school-courses.github.io/BEW-2.4-Decentralized-Apps-Distributed-Protocols/#/">Blockchain
-    Technology 🔐</a><br />
+  🌱 <strong>I recently learned about:</strong> <a href="https://shah-a.github.io/few2.3-02-weather-api/">TailwindCSS 🎨</a><br />
+  🔭 <strong>Next, I'm interested in learning about:</strong> <a
+    href="https://make-school-courses.github.io/FEW-2.4-Native-Development-with-JavaScript/#/">React Native 📲</a><br />
   🤝 <strong>I’m looking for help with:</strong> <a href="https://www.serverless.com/">AWS & Serverless framework</a><br />
   ⚡ <strong>Fun fact:</strong> I won't say no if you want to face me in a game of Smash Bros. 🎮👀<br />
 </p>
@@ -24,12 +23,13 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> &nbsp;
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <p align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge" />&nbsp;
+  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
