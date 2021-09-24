@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Salaam! My name is Ali 🙂</h1>
 
 <p align="center">
-  🌱 <strong>I recently learned about:</strong> <a href="https://shah-a.github.io/few2.3-02-weather-api/">TailwindCSS 🎨</a><br />
+  🌱 <strong>I recently learned about:</strong> <a href="https://shah-a.github.io/few2.3-02-weather-api-frontend/">TailwindCSS 🎨</a><br />
   🔭 <strong>Next, I'm interested in learning about:</strong> <a
     href="https://make-school-courses.github.io/FEW-2.4-Native-Development-with-JavaScript/#/">React Native 📲</a><br />
   🤝 <strong>I’m looking for help with:</strong> <a href="https://www.serverless.com/">AWS & Serverless framework</a><br />
