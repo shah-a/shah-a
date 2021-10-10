@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Salaam! My name is Ali 🙂</h1>
 
 <p align="center">
-  🌱 <strong>I recently learned about:</strong> <a href="https://shah-a.github.io/few2.3-02-weather-api-frontend/">TailwindCSS 🎨</a><br />
+  🌱 <strong>I recently learned about:</strong> <a href="https://shah-a.github.io/few2.3-02-weather-api-frontend/">Docker 🐳</a><br />
   🔭 <strong>Next, I'm interested in learning about:</strong> <a
     href="https://make-school-courses.github.io/FEW-2.4-Native-Development-with-JavaScript/#/">React Native 📲</a><br />
   🤝 <strong>I’m looking for help with:</strong> <a href="https://www.serverless.com/">AWS & Serverless framework</a><br />
@@ -40,6 +40,7 @@
 
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />&nbsp;
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 </p>
